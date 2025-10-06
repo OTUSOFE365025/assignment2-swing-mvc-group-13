@@ -1,10 +1,10 @@
-package CashRegisterMVC;
-
 public class Product {
+    // INSTANCE VARIABLES
     private int upcCode;
     private String name;
     private float price;
 
+    // CONSTRUCTOR
     public Product(int upcCode, String name, float price) {
         this.upcCode = upcCode;
         this.name = name;
