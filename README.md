@@ -1,7 +1,9 @@
 ## Group Member Contribution
 
 Horace Zeng - Implemented CashRegisterMVC app.
+
 Arvin Jain - Completed sequence diagram and scanner generateUPC().
+
 Oluwatobiloba Odubanjo - Completed questions 1 and 2.
 
 ## Answers to 1 and 2:
