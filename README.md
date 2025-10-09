@@ -9,6 +9,8 @@ Oluwatobiloba Odubanjo - Completed questions 1 and 2.
 ## Answers to 1 and 2:
 
 1. Java Swing is a Graphical User Interface toolkit that allows developers to create desktop applications in Java. It is part of the Java Foundation Classes and it provides lightweight, platform-independent components such as buttons and text fields. Swing is built on top of the Abstract Window Toolkit but offers more flexibility and customization. It follows a Model-View-Controller design at the component level, separating data handling which is the model, visual representation, which is the view, and user interaction, which is the controller. This makes applications easier to maintain, extend, and test.
+   <img width="1052" height="621" alt="image" src="https://github.com/user-attachments/assets/79e4db7e-63f3-44a8-9b41-0d064d4a9293" />
+
    
 2. How the example demonstrates the MVC Pattern:
 In the sample code, the MVC architecture is structured into three main parts. The Model which manages the program’s data ,such as the first and last names , and includes getter and setter methods for accessing and modifying this information. It functions as the core logic of the program, remaining separate from the interface itself. The View which builds and handles all graphical elements using Java Swing. Its purpose is to display information and collect input from the user. The Controller connects the Model and View, initializing the interface and, adding event listeners for user actions, updating the Model based on user input, and refreshing the View using dialog boxes when necessary.
